@@ -8,6 +8,7 @@
   background-color:#253141
 }
 
+/*サイドヘッダー*/
 .side-bar-header{
   background-color:#253141;
   height: 100px;
@@ -31,6 +32,7 @@
   padding:14px;
 }
 
+/*サイドのルーム選択*/
 .rooms {
   background-color: #2F3E51;
   height: calc(100vh - 100px);
