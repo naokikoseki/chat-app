@@ -1,6 +1,7 @@
 class RoomsController < ApplicationController
   def new
     @room = Room.new
+    render new_room_path
   end
 
   def create
